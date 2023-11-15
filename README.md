@@ -3,12 +3,12 @@
   <br>
   <a href=""><img src="https://github.com/ouzzkp/arc-rover/blob/main/arc_logo/170.png" alt="logo" width="300"></a>
   <br>
-Goktas AGV
+# ARC ROVER'24
   <br>
   <br>
 </h1>
 
-# ARC ROVER'24
+
 
 Welcome to the ARC ROVER Team's GitHub! We are a passionate collective of engineers, scientists, and space enthusiasts, founded in 2023. Our goal is to innovate in the field of space exploration, starting with our flagship project, the ARC ROVER.
 
