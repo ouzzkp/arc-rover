@@ -3,7 +3,7 @@
   <br>
   <a href=""><img src="https://github.com/ouzzkp/arc-rover/blob/main/arc_logo/170.png" alt="logo" width="300"></a>
   <br>
-# ARC ROVER'24
+ARC ROVER'24
   <br>
   <br>
 </h1>
