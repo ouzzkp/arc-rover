@@ -23,6 +23,7 @@ ARC ROVER is a state-of-the-art planetary exploration rover designed for unrival
 | :-------- | :------------------------- |
 | `Software Team Leader` |  Bahadır Onur Güdürü |
 | `Software Team Contributor` | Ece Önel | 
+| `Software Team Contributor` | Dilara N. Dönmez | 
 | `Software Team Contributor` |  Oğuz Kaan Pehlivan |
 | `Software Team Contributor` |  Mehmet Gümüş |
 | `Software Team Contributor` |  Niyazi Sever |
